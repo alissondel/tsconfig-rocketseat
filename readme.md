@@ -1,17 +1,16 @@
 ## Instalações
 
-$ yarn init -y
-$ yarn add -D typescript sucrase
-$ yarn add -D nodemon
-$ yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
-$ yarn eslint --init
--> Remova a pasta "package-lock.json" e roda o comando logo abaixo:
-$ yarn 
-$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
-$ yarn add express cors mongoose
-$ yarn add @types/express @types/cors @types/mongoose -D
-$
+$ yarn init -y <br />
+$ yarn add -D typescript sucrase <br />
+$ yarn add -D nodemon <br />
+$ yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin <br />
+$ yarn eslint --init <br />
+-> Remova a pasta "package-lock.json" e roda o comando logo abaixo: <br />
+$ yarn <br />
+$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D <br />
+$ yarn add express cors mongoose <br />
+$ yarn add @types/express @types/cors @types/mongoose -D <br />
 
-## Rodar Aplicação
-$ yarn dev
+## Rodar Aplicação<br />
+$ yarn dev<br />
 $ yarn build
