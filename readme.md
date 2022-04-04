@@ -14,3 +14,11 @@ $ yarn add @types/express @types/cors @types/mongoose -D <br />
 ## Rodar Aplicação<br />
 $ yarn dev<br />
 $ yarn build
+
+## 🛠 Tecnologias
+- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript Config](https://www.typescriptlang.org/tsconfig)
+- [Node.js](https://nodejs.org/en/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
